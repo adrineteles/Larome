@@ -1,0 +1,50 @@
+body{
+	font-family:"Times New Roman", Times, serif;;
+}
+
+h1{
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+}
+
+#top{ 
+  	border: #B0E0E6; 
+	
+ }
+
+ #mid{
+ 	border:  #F8F8FF;
+
+ }
+
+ #midbio{
+ 	border:  #F8F8FF;
+ }
+ 
+
+
+
+a{
+	color:#4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 45px;
+
+}
+
+.Aformat{
+	color:#4b566a;
+	text-decoration: none;
+	font-weight: bold;	
+	text-align: left;
+
+}
+
+.mensagem{
+	color:black;
+	text-align: center; 
+}
+
